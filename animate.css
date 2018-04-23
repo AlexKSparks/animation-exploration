@@ -91,13 +91,15 @@ div[data-anim~=base] {
 /* ***************************************** */
 /* Progress Circle Animation using JS/jQuery */ 
 /*         Add jsFiddle CSS code here        */
+/*
 *, *:after, *:before {
     margin:0;
     padding:0;
     box-sizing:border-box;
-    -webkit-animation-fill-mode: both; /* Chrome, Safari, Opera */
+    -webkit-animation-fill-mode: both;  Chrome, Safari, Opera 
     animation-fill-mode: both
 }
+*/
 .pie {
     background-color:darkorange;
     margin:30px;
